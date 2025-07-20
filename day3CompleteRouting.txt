@@ -56,6 +56,10 @@ config t
  no router ospf 1
  do sh ip protocols
 
+
+
+
+
 ###### give IP address/pri/secondary default GW to S1 and S2:
 @@S1
 config t
